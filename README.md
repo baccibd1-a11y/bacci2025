@@ -1,2 +1,2 @@
-# bacci2025
+# bacci
 This is our first project
